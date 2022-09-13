@@ -1,0 +1,29 @@
+section button {
+  width: 5rem;
+  height: 2.3rem;
+}
+section .lang-input {
+  width: 20rem;
+  height: 2.3rem;
+}
+
+#lang-list {
+  text-decoration: none;
+  display: flex;
+  align-items: center;
+  margin-top: 2px;
+  justify-content: center;
+}
+
+#lang-list li{
+  list-style: none;
+  text-align: center;
+  padding: 0.25rem 1rem;
+  text-shadow: 2px 2px rgba(100, 100, 100, 0.25);
+  font-weight: 600;
+  font-size: 17px;
+  text-decoration: none;
+  color: black;
+  border: 2px solid gray;
+  margin: 2px;
+}
